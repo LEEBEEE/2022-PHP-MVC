@@ -1,4 +1,6 @@
 # 2022-PHP-MVC
+2022.03.15부터 수강 중인 K-디지털트레이닝 기업 요구를 반영한 PHP 풀스택 개발자 양성과정 중 PHP MVC패턴을 이용한 게시판 만들기 실습 파일입니다. <br>
+강사님 깃헙: https://github.com/sbsteacher/PHP_MVC
 
 # (php설치 폴더) php.ini 파일 수정
     - 주석 해제
